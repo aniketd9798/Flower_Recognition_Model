@@ -33,8 +33,7 @@ Flower_CNN_Project/
 
 **1. Clone the repository**
 
-git clone [https://github.com/aniketd9798/Your-Repository-Name.git](https://github.com/aniketd9798/Your-Repository-Name.git)
-cd Your-Repository-Name
+git clone : (https://github.com/aniketd9798/Flower_Recognition_Model)
 
 **2. Create a Virtual Environment**
 
